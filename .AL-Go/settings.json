@@ -1,9 +1,9 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/a946346885b3c762fcbadb265823e70150c3e2f1/Actions/.Modules/settings.schema.json",
   "appFolders": [
     "ReviewFixture"
   ],
   "testFolders": [],
   "bcptTestFolders": [],
-  "country": "us",
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/a946346885b3c762fcbadb265823e70150c3e2f1/Actions/.Modules/settings.schema.json"
+  "country": "us"
 }

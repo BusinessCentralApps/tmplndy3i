@@ -1,9 +1,10 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/a946346885b3c762fcbadb265823e70150c3e2f1/Actions/.Modules/settings.schema.json",
   "type": "PTE",
   "MicrosoftTelemetryConnectionString": "",
   "CodeReviewAgent": {
     "enabled": true
   },
   "templateUrl": "https://github.com/businesscentralapps/tmpWnfEPT-PTE@main",
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/a946346885b3c762fcbadb265823e70150c3e2f1/Actions/.Modules/settings.schema.json"
+  "templateSha": "048dfec2790d623e86178936e78f4ecf05bb96fe"
 }
